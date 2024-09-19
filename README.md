@@ -1,4 +1,4 @@
-#AN-ADVANCED-FACE-RECOGNITION-ATTENDANCE-SYSTEM-USING-RASPBERRY-PI-4
+# AN-ADVANCED-FACE-RECOGNITION-ATTENDANCE-SYSTEM-USING-RASPBERRY-PI-4
 
 This project introduces an Automated Face Recognition Attendance System using Raspberry Pi. It employs the face recognition library on Raspberry Pi 4, utilizing a webcam for real-time facial image capture. The system cross-references these images with pre-registered encodings and logs attendance details in a CSV file. Notable features include preventing duplicate entries, continuous operation, and marking attendance at scheduled intervals. Automating student attendance is vital for efficient classroom management. This project proposes a solution using face recognition technology, leveraging Raspberry Pi 4 and OpenCV for effective face detection and recognition.
 
